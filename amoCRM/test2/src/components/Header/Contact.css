@@ -1,0 +1,11 @@
+.headerTxt{
+    color: #E4E5EA;
+    margin-top: 54px;
+}
+.headerContact{
+    display: flex;
+    justify-content: flex-end;
+}
+.contactHeaderBtn{
+    margin-top: 45px;
+}
