@@ -1,0 +1,50 @@
+.h6Body{
+    color: #E4E5EA;
+    text-align: left;
+    font-size: 48px;
+}
+.h4Body{
+    color: #E4E5EA;
+    text-align: left;
+}
+.containerBody{
+    display:  grid;
+    grid-template-columns: 1fr 3fr 2fr 1fr;
+}
+.welbex{
+    background:linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.rightBody{
+    margin-top: 35px;
+}
+.h3RightText{
+    color: #E4E5EA;
+    text-align: right;
+    font-size: 18px;
+}
+.presentCase{
+    color: #E4E5EA;
+    text-align: right;
+}
+.presentCase1{
+    color: #E4E5EA;
+    margin-left: 150px;
+}
+.presentBody{
+    text-align: right;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+}
+.bodyBtn{
+    width: 262px;
+    height: 61px;
+    background: #4077F3;
+    color: #E4E5EA;
+}
+.bodyFlexBtn{
+    display: flex;
+    justify-content: flex-end;
+}
