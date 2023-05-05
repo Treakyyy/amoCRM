@@ -1,0 +1,53 @@
+.containerFooter{
+    display:  grid;
+    grid-template-columns: 1fr 3fr 2fr 1fr;
+}
+.h4FooterHeader{
+    color: #656566;
+    text-align: left;
+}
+.h4FooterHeader1{
+    color: transparent;
+    text-align: left;
+}
+.flexFooterMenu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.footerBtn {
+    text-align: left;
+    background-color: transparent;
+    color: #E4E5EA;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+}
+.footerMenuLeft{
+    display: flex;
+    gap: 6rem;
+}
+.rightMenuFooter{
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.textFooter{
+    color: #E4E5EA;
+}
+.h4FooterHeaderRight{
+    color: #656566;
+}
+.rightMenuBtn{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.end{
+    color: #656566;
+}
+.underline{
+    text-decoration: underline;
+}
