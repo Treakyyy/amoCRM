@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background: #0E1014;
+  display: grid;
+  grid-template-rows: 0fr 1fr 3fr 2fr;
+}
+body{
+  background: #0E1014;
+}
