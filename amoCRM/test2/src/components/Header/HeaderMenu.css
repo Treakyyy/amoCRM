@@ -1,0 +1,29 @@
+.containerHeaderMenu{
+    display: flex;
+}
+.containerHeaderBtn{
+    margin-top: 50px;
+}
+.logoContainer{
+    display: flex;
+    flex-direction: column;
+    width: 152px;
+    margin-top: 50px;
+}
+.logoHeader{
+    height: 24px;
+}
+.logoText{
+    color: #E4E5EA;
+    margin: 10px;
+    width: 140px;
+    text-align: left;
+}
+.headerBtn{
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color: transparent;
+    border: none;
+    color: #E4E5EA;
+    cursor: pointer;
+}
